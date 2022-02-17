@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32106.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShikhanobishInvoiceGenaretor", "ShikhanobishInvoiceGenaretor\ShikhanobishInvoiceGenaretor.csproj", "{B21E05DC-EC83-46B6-8159-D288857C47D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShikhanobishInvoiceGenaretor", "ShikhanobishInvoiceGenaretor\ShikhanobishInvoiceGenaretor.csproj", "{B21E05DC-EC83-46B6-8159-D288857C47D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
